@@ -1,4 +1,4 @@
 osx_image: xcode10.2
 language: swift
 os: osx
-xcode_project: Numero.xcodeproj
+xcode_project: Numero/Numero.xcodeproj
